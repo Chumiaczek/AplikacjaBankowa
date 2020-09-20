@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Grzesiek\Desktop\Coding\C++\Aplikacja Bankowa\Nauka\Nauka\main.cpp(206,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Nauka.vcxproj -> C:\Users\Grzesiek\Desktop\Coding\C++\Aplikacja Bankowa\Nauka\x64\Debug\Aplikacja Bankowa.exe
